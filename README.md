@@ -4,7 +4,7 @@
 This repository contains a machine learning project aimed at predicting house prices based on various structural, locational, and qualitative features. The goal of this project is to build a robust regression model that can accurately estimate property values, assisting buyers and real estate agents in making data-driven decisions.
 
 ## Dataset
-The model was trained on the **[Insert Dataset Name, e.g., Ames Housing Dataset / Boston Housing Dataset]**, which includes **[Insert number of rows]** records and **[Insert number of features]** explanatory variables (such as square footage, number of bedrooms, neighborhood, etc.).
+The model was trained on the dataset which features are given in a file and explanatory variables (such as square footage, number of bedrooms, neighborhood, etc.).
 
 ## Tech Stack
 *   **Language:** Python
@@ -20,14 +20,13 @@ The model was trained on the **[Insert Dataset Name, e.g., Ames Housing Dataset 
     *   Linear Regression
     *   Decision Tree Regressor
     *   Random Forest Regressor
-    *   **[Add any other models you used]**
-4.  **Hyperparameter Tuning:** Utilized **[GridSearchCV / RandomizedSearchCV]** to optimize model parameters.
+4.  **Hyperparameter Tuning:** Utilized **[GridSearchCV & RandomizedSearchCV]** to optimize model parameters.
 
 ## Results
-The **[Insert best model name]** yielded the best performance with the following metrics on the test data:
-*   **R² Score:** [Insert Score]
-*   **Root Mean Squared Error (RMSE):** [Insert Error]
-*   **Mean Absolute Error (MAE):** [Insert Error]
+The model yielded the best performance with the following metrics on the test data:
+*   R² Score
+*   Root Mean Squared Error (RMSE)
+*   Mean Absolute Error (MAE)
 
 ## Installation & Usage
 To run this project locally, follow these steps:
