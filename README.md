@@ -1,4 +1,4 @@
-# House Price Prediction 🏡📈
+# House Price Prediction
 
 ## Project Overview
 This repository contains a machine learning project aimed at predicting house prices based on various structural, locational, and qualitative features. The goal of this project is to build a robust regression model that can accurately estimate property values, assisting buyers and real estate agents in making data-driven decisions.
